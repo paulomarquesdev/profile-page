@@ -1,4 +1,4 @@
-# Jacob Herper Portfolio
+# Portfolio
 
 Esse website é minha página pessoal. O projeto foi desenvolvido pelo [Jake Herp](https://github.com/jakeherp/).
 
